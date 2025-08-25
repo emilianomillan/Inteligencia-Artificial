@@ -2,4 +2,4 @@ Este programa simula un calendario de 4 semanas donde algunos días están ocupa
 
 Utiliza BFS para encontrar el día libre más cercano desde una posición inicial, explorando primero los días inmediatos (arriba, abajo, izquierda, derecha) y después los más lejanos, garantizando así la opción más próxima disponible.
 
-Por otro lado, el DFS se enfoca en un día específico de la semana (como viernes) y recorre verticalmente el calendario buscando únicamente en esa columna, hasta hallar el siguiente día libre de ese tipo, ignorando por completo los demás días.
+Por otro lado, el DFS se enfoca en un día específico de la semana (como viernes) y recorre verticalmente el calendario buscando únicamente en esa columna, hasta encontrar el siguiente día libre de ese tipo, ignorando por completo los demás días.
